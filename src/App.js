@@ -1,25 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
+"use client"
+import { useState } from "react";
 
-function App() {
+export default function Home() {
+
+  
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="container">
+      <h1 className="text">Welcome to my home...</h1>
+        <p className="openText">Open 24/7</p>
+        <p className="pText">I have no idea what I am doing</p>
     </div>
-  );
+);
 }
-
-export default App;
