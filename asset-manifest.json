@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/korsteReact/static/css/main.82cf03b7.css",
+    "main.js": "/korsteReact/static/js/main.0fdc0e68.js",
+    "static/js/453.ed3810f9.chunk.js": "/korsteReact/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/korsteReact/index.html",
+    "main.82cf03b7.css.map": "/korsteReact/static/css/main.82cf03b7.css.map",
+    "main.0fdc0e68.js.map": "/korsteReact/static/js/main.0fdc0e68.js.map",
+    "453.ed3810f9.chunk.js.map": "/korsteReact/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82cf03b7.css",
+    "static/js/main.0fdc0e68.js"
+  ]
+}
