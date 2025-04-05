@@ -14,6 +14,7 @@ export default function Home() {
         <p className="openText">Open 24/7</p>
         <p className="pText">I have no idea what I am doing</p>
         <p>test text</p>
+        
     </div>
 );
 }

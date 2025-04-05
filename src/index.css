@@ -42,7 +42,12 @@ body {
 }
 
 /* typewriter animation */
-.container { display: inline-block; }
+.container { 
+  display: grid;
+  place-items: center;
+  align-items: center;
+  min-height: 100vh;
+}
 
 .text {
   font-size: 3em;
@@ -55,27 +60,15 @@ body {
   animation:
     typing 2s steps(20),
     cursor .4s step-end infinite alternate;
-  position: absolute;
+  position: relative;
   text-align: center;
 }
 
 .openText {
   font-size: 3em;
-  letter-spacing: 5px;
+  letter-spacing: 20px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  width: 100%;
-  white-space: nowrap;
-  overflow: hidden;
-  animation:
-    typing 1s steps(9),
-    cursor 1s step-end infinite alternate;
-  position: relative;
   text-align: center;
-  animation-iteration-count: infinite;
-  position: relative;
-  text-align: center;
-  top: 74%;
-  width: 100%;
 }
 
 /* blinking cursor */
@@ -90,13 +83,9 @@ body {
 .pText {
   font-size: 2em;
   font-family: 'Times New Roman', Times, serif;
-  width: 100%;
   white-space: nowrap;
   overflow: hidden;
   color: rebeccapurple;
-  position: absolute;
-  top: 50%;
-  width: 100%;
   text-align: center;
 }
 
