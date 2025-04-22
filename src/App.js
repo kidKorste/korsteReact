@@ -24,7 +24,7 @@ export default function Home() {
           <img className="gif"src={grasshopper}/>
         </div>
         <p className="openText">Open 24/7</p>
-        <p className="pText">I have no idea what I am doing</p>        
+        <p className="pText" >I have no idea what I am doing but here is a link to my <a href ="https://github.com/kidkorste">GIT HUB</a></p>        
     </div>
 );
 }
