@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/korsteReact/static/css/main.80b306a7.css",
-    "main.js": "/korsteReact/static/js/main.32333c05.js",
+    "main.js": "/korsteReact/static/js/main.b128564e.js",
     "static/js/453.ed3810f9.chunk.js": "/korsteReact/static/js/453.ed3810f9.chunk.js",
     "static/media/grasshopper.gif": "/korsteReact/static/media/grasshopper.ad829dcbc088fe71f5b8.gif",
     "index.html": "/korsteReact/index.html",
     "main.80b306a7.css.map": "/korsteReact/static/css/main.80b306a7.css.map",
-    "main.32333c05.js.map": "/korsteReact/static/js/main.32333c05.js.map",
+    "main.b128564e.js.map": "/korsteReact/static/js/main.b128564e.js.map",
     "453.ed3810f9.chunk.js.map": "/korsteReact/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.80b306a7.css",
-    "static/js/main.32333c05.js"
+    "static/js/main.b128564e.js"
   ]
 }
